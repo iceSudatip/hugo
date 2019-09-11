@@ -71,7 +71,7 @@ params:
     # option to specify the title in the homepage
     title: SUDATIP TAWEESUK
     # option to specify the subtitle in the homepage
-    subtitle: ICE  CHANON  KEEM CHIN
+    subtitle: ICE 
     # option to specify image in the homepage
     image: "/images/default_summary.jpg" # worker.svg 
     # option to specify the width of the image in the homepage
